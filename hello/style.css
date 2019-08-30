@@ -1,0 +1,31 @@
+@font-face {
+  font-family: 'slither';
+  src: url('Silver South Serif.ttf');
+}
+
+html, body {
+  margin: 0;
+}
+
+.top {
+  height: 100vh;
+  width: 100%;
+  background-color: black;
+  mix-blend-mode: difference;
+}
+
+.bottom {
+  height: 100vh;
+  width: 100%;
+  background-color: white;
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  position: fixed;
+  margin-top: 40vh;
+  padding-left: 30px;
+  font-family: 'slither';
+  font-size: 26em;
+}
