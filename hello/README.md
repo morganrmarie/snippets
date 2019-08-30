@@ -4,6 +4,5 @@ This is a small website snippet that demonstrates how to change color of text ba
 
 ![Preview](code-images/hello.gif)
 
-![HTML](code-images/html.png)
-
-![CSS](code-images/css.png)
+<img src="code-images/html.png" alt="drawing" height="300"/>
+<img src="code-images/css.png" alt="drawing" height="300"/>
